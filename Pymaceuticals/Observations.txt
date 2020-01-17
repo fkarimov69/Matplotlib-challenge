@@ -1,0 +1,4 @@
+1. Time Point vs Tumoe Volume plot suggests that Capomulin is showing tendency to reduce tumor volume over time. Most notable effect achievd at around 25-30 days after treatment started.
+2.Based on regressional analysis there is a positive linear correlation between mouse weight and tumor volume.
+3.Out of 4 most promising Drugs Capomulin and Ramicane show better results
+
